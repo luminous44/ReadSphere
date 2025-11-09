@@ -3,7 +3,6 @@ package main
 import (
 	"log"
 	"net/http"
-
 	"github.com/gorilla/mux"
 	"github.com/luminous44/ReadSphere/pkg/routes"
 )
